@@ -1,5 +1,5 @@
 import { StyleSheet, Text, TouchableOpacity, View } from 'react-native'
-import React, { use } from 'react'
+import React from 'react'
 import { s } from 'react-native-size-matters'
 import { GoogleIcon } from '../../../assets/Icons'
 import { useNavigation } from '@react-navigation/native'

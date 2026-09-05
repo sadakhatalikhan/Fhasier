@@ -1,4 +1,4 @@
-import { StyleSheet, Text, TouchableOpacity, View } from 'react-native'
+import { StyleSheet, Text, TouchableOpacity } from 'react-native'
 import React from 'react'
 import { s, vs } from 'react-native-size-matters'
 import Feather from '@expo/vector-icons/Feather';

@@ -1,4 +1,4 @@
-import { StyleSheet, TouchableOpacity, View, Text } from 'react-native'
+import { StyleSheet, View } from 'react-native'
 import React from 'react'
 import InputTextField from '../common/InputTextField'
 import DynamicButton from '../common/DynamicButton'

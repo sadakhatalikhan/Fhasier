@@ -1,6 +1,6 @@
 import { StyleSheet, Text, View } from 'react-native'
 import React, { useState } from 'react'
-import {vs, s} from 'react-native-size-matters'
+import {s} from 'react-native-size-matters'
 import { Checkbox } from 'expo-checkbox'
 
 const TermsAndConditions = () => {

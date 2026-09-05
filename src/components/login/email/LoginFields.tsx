@@ -1,4 +1,4 @@
-import { StyleSheet, Text, View, TextInput } from 'react-native'
+import { StyleSheet, Text, View } from 'react-native'
 import React from 'react'
 import { vs, s } from 'react-native-size-matters'
 import InputTextField from '../../common/InputTextField';
