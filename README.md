@@ -39,20 +39,38 @@ npm install react-native-element-dropdown
 
 ## App Screenshots
 
-![alt text](assets/screenshots/AppLandingPage.png) 
+<p align="center">
+  <img src="assets/screenshots/AppLandingPage.png" width="300"/>
+</p>
 
-![alt text](assets/screenshots/EmailLoginScreen.png) 
+<p align="center">
+  <img src="assets/screenshots/EmailLoginScreen.png" width="300"/>
+</p>
 
-![alt text](assets/screenshots/ForgotPasswordEmailSuccess.png) 
+<p align="center">
+  <img src="assets/screenshots/ForgotPasswordEmailSuccess.png" width="300"/>
+</p>
 
-![alt text](assets/screenshots/ForgotPasswordScreen.png) 
+<p align="center">
+  <img src="assets/screenshots/ForgotPasswordScreen.png" width="300"/>
+</p>
 
-![alt text](assets/screenshots/PhoneNumberLogin.png) 
+<p align="center">
+  <img src="assets/screenshots/PhoneNumberLogin.png" width="300"/>
+</p>
 
-![alt text](assets/screenshots/PhoneVerifyScreen.png) 
+<p align="center">
+  <img src="assets/screenshots/PhoneVerifyScreen.png" width="300"/>
+</p>
 
-![alt text](assets/screenshots/RegisterScreen.png) 
+<p align="center">
+  <img src="assets/screenshots/RegisterScreen.png" width="300"/>
+</p>
 
-![alt text](assets/screenshots/RegisterSuccessScreen.png) 
+<p align="center">
+  <img src="assets/screenshots/RegisterSuccessScreen.png" width="300"/>
+</p>
 
-![alt text](assets/screenshots/WelcomeScreen.png)
+<p align="center">
+  <img src="assets/screenshots/WelcomeScreen.png" width="300"/>
+</p>
