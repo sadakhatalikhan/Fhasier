@@ -20,7 +20,7 @@ const EmailLoginScreen = () => {
       <LoginFields />
       <ForgotPasswordLink />
       <View style={styles.container}>
-        <DynamicButton name = {"Login"} buttonNavigation={"LoginSuccess"}/>
+        <DynamicButton name = {"Login"} buttonNavigation={"HomeScreen"}/>
       </View>
       <RegisterLink />
     </SafeAreaView>

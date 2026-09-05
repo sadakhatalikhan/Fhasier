@@ -32,3 +32,5 @@ yarn add react-native-gesture-handler
 ## install checkbox
 npm install expo-checkbox
 
+## select dropdown field
+npm install react-native-element-dropdown
