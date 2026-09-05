@@ -34,3 +34,17 @@ npm install expo-checkbox
 
 ## select dropdown field
 npm install react-native-element-dropdown
+
+
+
+## App Screenshots
+
+![alt text](assets/screenshots/AppLandingPage.png) 
+![alt text](assets/screenshots/EmailLoginScreen.png) 
+![alt text](assets/screenshots/ForgotPasswordEmailSuccess.png) 
+![alt text](assets/screenshots/ForgotPasswordScreen.png) 
+![alt text](assets/screenshots/PhoneNumberLogin.png) 
+![alt text](assets/screenshots/PhoneVerifyScreen.png) 
+![alt text](assets/screenshots/RegisterScreen.png) 
+![alt text](assets/screenshots/RegisterSuccessScreen.png) 
+![alt text](assets/screenshots/WelcomeScreen.png)
